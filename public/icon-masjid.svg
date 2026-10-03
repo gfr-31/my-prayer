@@ -1,0 +1,6 @@
+<svg
+            className="md:w-26 w-16 h-16 text-warm-cream fill-current"
+            viewBox="0 0 24 24"
+          >
+            <path d="M12 2L10.5 5H13.5L12 2ZM12 6C8.5 6 6 8.5 6 12V21H18V12C18 8.5 15.5 6 12 6ZM10 19H8V15H10V19ZM16 19H14V15H16V19Z" />
+          </svg>
